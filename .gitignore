@@ -1,3 +1,7 @@
+## Exclude Python and Jupyter files
+.ipynb_checkpoints/
+__pycache__/
+
 ## Exlude videos/animations
 *.mp4
 
